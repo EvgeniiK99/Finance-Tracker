@@ -1,7 +1,6 @@
 #private data
 service_account.json
 client_data.json
-
 test.py
 
 # Byte-compiled / optimized / DLL files
