@@ -7,7 +7,6 @@ from tkcalendar import Calendar, DateEntry
 from datetime import datetime
 import re
 
-
 # ID таблицы и название листа
 SPREADSHEET_ID = 'SPREADSHEET_ID'
 SHEET_NAME = 'SHEET_NAME'
